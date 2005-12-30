@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: de.berlios.nblayoutpack.riverlayout/1
+OpenIDE-Module-Layer: de/berlios/nblayoutpack/riverlayout/nb5.x/layer.xml
+OpenIDE-Module-Localizing-Bundle: de/berlios/nblayoutpack/riverlayout/Bundle.properties
+OpenIDE-Module-Install: de/berlios/nblayoutpack/riverlayout/RiverLayoutModule.class

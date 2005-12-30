@@ -1,0 +1,11 @@
+RiverLayout License
+---------------------------------------
+
+RiverLayout is released under the LGPL licence. You may therefore freely
+use it in both non-commerical and commercial applications and you don't
+need to open up your source code. Improvements made to RiverLayout should
+however be returned to the project for the benefit of everyone.
+
+Copyright (C) 2005 David Ekholm.
+
+---------------------------------------

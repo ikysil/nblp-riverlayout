@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+
+  <folder name="FormDesignerPalette">
+    <folder name="_Layouts_only_for_internal_use_">
+      <attr name="SystemFileSystem.localizingBundle" stringvalue="de.berlios.nblayoutpack.riverlayout.Bundle"/>
+      <file name="RiverLayout.palette_item" url="palette/RiverLayout.palette_item"/>
+    </folder>
+  </folder>
+
+  <!-- form class loader type registration -->
+  <folder name="org-netbeans-modules-form">
+    <folder name="classloader">
+      <folder name="system">
+        <file name="RiverLayoutClasses.txt" url="RiverLayoutClasses.txt" />
+      </folder>
+    </folder>
+  </folder>
+
+</filesystem>
+

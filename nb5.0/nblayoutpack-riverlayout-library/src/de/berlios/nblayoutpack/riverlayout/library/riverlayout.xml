@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE library PUBLIC "-//NetBeans//DTD Library Declaration 1.0//EN" "http://www.netbeans.org/dtds/library-declaration-1_0.dtd">
+
+<library version="1.0">
+    <name>RiverLayout 1.1</name>
+    <type>j2se</type>
+    <localizing-bundle>de/berlios/nblayoutpack/riverlayout/library/Bundle</localizing-bundle>
+    <volume>
+        <type>classpath</type>
+        <resource>jar:nbinst:///modules/ext/nblayoutpack/riverlayout-1.1.jar!/</resource>
+    </volume>
+</library>

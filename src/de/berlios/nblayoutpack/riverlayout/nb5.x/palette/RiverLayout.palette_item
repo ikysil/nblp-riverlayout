@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<palette_item version="1.0">
+  <component classname="se.datadosen.component.RiverLayout" type="layout" />
+  <icon16 urlvalue="nbres:/de/berlios/nblayoutpack/riverlayout/resources/riverlayout16.png" />
+  <icon32 urlvalue="nbres:/de/berlios/nblayoutpack/riverlayout/resources/riverlayout32.png" />
+  <description localizing-bundle="de.berlios.nblayoutpack.riverlayout.Bundle"
+               display-name-key="Palette/Layouts/se-datadosen-component-RiverLayout.instance" />
+  <classpath>
+      <resource type="library" name="RiverLayout 1.1" />
+  </classpath>
+</palette_item>
