@@ -398,7 +398,7 @@ public class RiverLayoutSupport extends AbstractLayoutSupport {
         if ((components == null) || (components.length == 0)){
             return;
         }
-        //TODO
+        //TODO: evaluate feasibility
 //        ConstraintsConverter converter = new DefaultConstraintsConverter();
 //        converter.convertConstraints(getLayoutContext(), this, previousConstraints, currentConstraints, components);
     }
@@ -427,7 +427,7 @@ public class RiverLayoutSupport extends AbstractLayoutSupport {
 
     public static RiverLayoutSupportConstraints decodeConstraints(String value) {
         RiverLayoutSupportConstraints result = new RiverLayoutSupportConstraints();
-        StringTokenizer st = new StringTokenizer(value.trim(), " ");
+        StringTokenizer st = new StringTokenizer(value.trim());
         for (; st.hasMoreTokens(); ) {
             String token = st.nextToken();
             if (token.equalsIgnoreCase(RiverLayout.LINE_BREAK)) {
